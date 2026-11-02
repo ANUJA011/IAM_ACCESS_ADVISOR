@@ -40,4 +40,4 @@ Built with Python, Tkinter, and Google's Gemini API.
 This is a learning project. AI recommendations should support, not replace, a human access reviewer's decision.
 
 ## Author
-Anuja Pawar, IAM professional (SailPoint, Saviynt) exploring AI × Identity.
+**Anuja Pawar**, IAM professional (SailPoint, Saviynt) exploring AI × Identity.
